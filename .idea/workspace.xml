@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="046e5174-980d-4be3-8e4b-5c9e06a30f3b" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="structure-renderer" />
+                    <option name="lastUsedInstant" value="1741075269" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="banner-patterns-renderer" />
+                    <option name="lastUsedInstant" value="1741069573" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="fix-banner-renderer" />
+                    <option name="lastUsedInstant" value="1740999860" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1740924971" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tlLeIE6ZHrya5CLUttlzc1g4oK" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Node.js.未命名.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/Development/Web/deepslate/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.demo.executor": "Run",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "F:\\Development\\Web\\deepslate\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\glutt\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="5cba6005-15b6-4de6-8697-135a8f0dcb11" reportId="deepslate/qodana/2025-03-02" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Development\Web\deepslate\demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="demo" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="046e5174-980d-4be3-8e4b-5c9e06a30f3b" name="更改" comment="" />
+      <created>1740921807232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740921807232</updated>
+      <workItem from="1740921808326" duration="1674000" />
+      <workItem from="1740924168744" duration="968000" />
+      <workItem from="1740925154034" duration="5471000" />
+      <workItem from="1740998286107" duration="1585000" />
+      <workItem from="1740999896998" duration="4588000" />
+      <workItem from="1741007302450" duration="372000" />
+      <workItem from="1741007683574" duration="10574000" />
+      <workItem from="1741018727910" duration="521000" />
+      <workItem from="1741066235571" duration="2050000" />
+      <workItem from="1741068306153" duration="344000" />
+      <workItem from="1741068658190" duration="2858000" />
+      <workItem from="1741071544933" duration="4096000" />
+      <workItem from="1741076564009" duration="1815000" />
+      <workItem from="1741081320840" duration="13000" />
+      <workItem from="1741082454479" duration="16000" />
+      <workItem from="1741084926720" duration="1026000" />
+      <workItem from="1741086301124" duration="3530000" />
+      <workItem from="1741096252337" duration="9812000" />
+      <workItem from="1741166932077" duration="287000" />
+      <workItem from="1741167251246" duration="175000" />
+      <workItem from="1741174185205" duration="18000" />
+      <workItem from="1741185229387" duration="1376000" />
+      <workItem from="1741186627182" duration="57000" />
+      <workItem from="1741186689140" duration="148000" />
+      <workItem from="1741186844743" duration="4401000" />
+      <workItem from="1741272483937" duration="155000" />
+      <workItem from="1741282197484" duration="1188000" />
+      <workItem from="1741291046619" duration="561000" />
+      <workItem from="1741339874885" duration="1259000" />
+      <workItem from="1741344880672" duration="2000" />
+      <workItem from="1741706593454" duration="233000" />
+      <workItem from="1741710486008" duration="798000" />
+      <workItem from="1741714484395" duration="12000" />
+      <workItem from="1741841702746" duration="127000" />
+      <workItem from="1741841838383" duration="61000" />
+      <workItem from="1741841906010" duration="169000" />
+      <workItem from="1741842134268" duration="120000" />
+      <workItem from="1741842281097" duration="1000" />
+      <workItem from="1742313806421" duration="59000" />
+      <workItem from="1742313870041" duration="2818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/kkw557" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
